@@ -57,8 +57,8 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bachelors in Technology, Computer Science and Artificial Intelligence\n
-      university: Indraprastha Institute of Information Technology\n
+    - degree: Bachelors in Technology, Computer Science and Artificial Intelligence               
+      university: Indraprastha Institute of Information Technology
       time: July, 2019 - Present
       details: |
         I am currently pursuing my bachelors from IIIT Delhi, in the field of Computer
