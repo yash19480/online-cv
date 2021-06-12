@@ -58,7 +58,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Bachelors in Technology, Computer Science and Artificial Intelligence
-      university: Indraprastha Institute of Information Technology
+      university: Indraprastha Institute of Information Technology\n
       time: July, 2019 - Present
       details: |
         I am currently pursuing my bachelors from IIIT Delhi, in the field of Computer
