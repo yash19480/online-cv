@@ -10,7 +10,7 @@ sidebar:
     name: Yash Aggarwal
     tagline: Student
     avatar: yash.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    cv: cv.pdf
     # Sidebar links
     email: yash19480@iiitd.ac.in
     # phone: 8700041096
