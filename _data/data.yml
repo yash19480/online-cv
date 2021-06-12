@@ -43,19 +43,16 @@ sidebar:
       - item: Learning about new algorithms and their applications
         link:
 
-      - item: Love me some biking!!!
+      - item: Love me some basketball!!!
         link:
 
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a student at IIIT-Delhi, currently pursuing Computer Science and Artificial Intelligence. My interest lie
+      in Machine Learning and Deep Learning. When I am not busy with college deadlines (almost never), I can be found
+      watching YouTube highlights of old school basketball (no doubt in my mind who the GOAT is).
 education:
     - degree: Bachelors in Technology, CSAI              
       university: Indraprastha Institute of Information Technology
