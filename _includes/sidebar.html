@@ -11,6 +11,10 @@
     <h1 class="name">{{ sidebar.name }}</h1>
     {% endif %}
 
+    {% if sidebar.name %}
+    <link href="{{ site.baseurl }}/assets/cv/cv.pdf" />
+    {% endif %}
+    
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
